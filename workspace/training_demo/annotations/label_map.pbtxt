@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'ore'
+}
+
+item {
+    id: 2
+    name: 'depleted'
+}
