@@ -9,3 +9,10 @@ Private repository to create my own custom object detection models.
 **Scripts** is mainly for converting xml -> csv, csv -> .record
 
 **Workplace** contains images, pre trained model(startpoint, checkpoint), annotations that were created with the scripts and the training folder.
+
+
+## Tensorflow and guides
+
+**Installation and setting up custom model**
+
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
