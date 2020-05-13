@@ -2,7 +2,7 @@
 
 Private repository to create my own custom object detection models.
 
-##DIRS:
+## DIRS:
 
 **Addons** is for additional software such as labelImg to create custom labeled images to train on.
 
