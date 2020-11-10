@@ -2,7 +2,8 @@
 
 ![Alt Text](https://github.com/FreerGit/osrsMiningBot/blob/master/initialAI.gif)
 
-An oldschool Runescape bot made with tensorflow.
+An oldschool Runescape bot made with Tensorflow and Java.
+
 
 ## Future work:
 - As you can see in the gif, some frames the AI does not recognize the ores. This poses a problem with the bot since it can be hard know to the next step for the bot to take. Object tracking will be needed, essentially if a ore is detected 7/10 frames we can be pretty sure it's an actual ore and not a fluke. But also keep track of all the ores so a path for the bot can be produced. So far I have looked into openCV's object detecting, maybe something else? Alot of testing needed.
