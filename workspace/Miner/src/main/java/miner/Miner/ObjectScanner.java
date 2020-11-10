@@ -82,8 +82,6 @@ public class ObjectScanner extends Thread{
 			byteArray[temp++] = (byte) c.getRed();
 			byteArray[temp++] = (byte) c.getGreen();
 			byteArray[temp++] = (byte) c.getBlue();
-			
-			
 		}
 		return ByteBuffer.wrap(byteArray);
 	}

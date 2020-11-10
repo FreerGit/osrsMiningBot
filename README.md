@@ -4,6 +4,8 @@ Private repository to create my own custom object detection models.
 
 ## DIRS:
 
+![Alt Text](https://github.com/FreerGit/osrsMiningBot/blob/master/initialAI.gif)
+
 **Addons** is for additional software such as labelImg to create custom labeled images to train on.
 
 **Scripts** is mainly for converting xml -> csv, csv -> .record

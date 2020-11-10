@@ -33,7 +33,7 @@ public class Bot {
 	public void run() throws AWTException, IOException, InterruptedException {
 		//Not easy to read! Basically one thread will capture a new image and do a prediction on that picture
 		//When done, add that to a queue. Another thread will then grab the predictions and the image that was
-		//used for the prediction and add the boxes to that picture and display it. This will allow for MUCH MUCH
+		//used for the prediction and add the boxes to that picture and display it. This will allow for 
 		//better frame rate rather then doing all of that in a sequence.
 		outputWindow.initializePredictedImageWindow();
 		outputWindow.start();
